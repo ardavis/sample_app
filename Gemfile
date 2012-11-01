@@ -7,6 +7,7 @@ gem 'jquery-rails'
 group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails'
+  gem 'spork'
 end
 
 group :assets do
